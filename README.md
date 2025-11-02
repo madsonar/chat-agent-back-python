@@ -1,3 +1,4 @@
+# init
 cd backend
 uv init --bare
 uv python pin 3.12
