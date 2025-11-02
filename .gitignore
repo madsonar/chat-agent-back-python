@@ -4,7 +4,7 @@ lambda-package/
 .env.prod
 .venv*
 .lambda-package*
-__pycache__/*
+/__pycache__/*
 *.pyc
 *.pyo
 *.pyd
