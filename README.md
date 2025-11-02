@@ -8,4 +8,6 @@ uv run uvicorn server:app --reload
 ```
 
 # deploy
+```
 uv run deploy.py
+```
