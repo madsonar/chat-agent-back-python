@@ -1,0 +1,14 @@
+lambda-deployment.zip
+lambda-package/
+.env
+.env.prod
+.venv*
+.lambda-package*
+__pycache__/*
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+build/
+/data/linkedin.pdf*

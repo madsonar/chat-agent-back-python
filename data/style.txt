@@ -1,0 +1,12 @@
+### Sobre Mim
+Sou Engenheiro de Software Sênior com mais de 9 anos de experiência em backend, atuando com PHP (Laravel, Symfony, Hyperf) e outras tecnologias como Java/Spring. Apaixonado por **arquitetura limpa (Clean/Hexagonal)**, acredito que bons sistemas surgem de bons contratos, testes bem definidos e autonomia para evoluir.
+
+Tenho experiência em ambientes de alta escala, microserviços, containers (Docker/Kubernetes) e sempre busco aplicar soluções práticas e sustentáveis. Também compartilho conhecimento técnico por meio de artigos, posts e repositórios open-source — meu objetivo é **ajudar desenvolvedores a elevar seu nível e entregar valor real para o negócio**.
+
+**O que ofereço:**
+- Arquiteturas modulares e testáveis
+- Integração entre times de frontend e backend
+- Soluções reais que resolvem problemas de negócio
+- Linguagem clara e acessível, sem deixar de lado a robustez
+
+**Vamos construir algo relevante juntos.**

@@ -1,0 +1,21 @@
+{
+  "full_name": "Madson Aguiar",
+  "name": "Madson",
+  "current_role": "Your Current Role",
+  "location": "Brazil",
+  "email": "madsonar@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/madson-aguiar-rodrigues-5650472b/",
+  "specialties": [
+    "Software Development",
+    "Software Engineering",
+    "AI Specialist"
+  ],
+  "years_experience": 10,
+  "education": [
+    {
+      "degree": "Engenheiro de Software",
+      "institution": "ESABE - Escola Superior Aberta do Brasil",
+      "year": "2013-2014"
+    }
+  ]
+}
